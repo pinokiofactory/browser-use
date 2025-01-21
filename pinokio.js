@@ -2,7 +2,7 @@ const path = require('path')
 module.exports = {
   version: "3.3",
   title: "browser-use",
-  description: "",
+  description: "Run AI Agent in your browser. https://github.com/browser-use/web-ui",
   icon: "icon.png",
   menu: async (kernel, info) => {
     let installed = info.exists("app/env")
