@@ -1,6 +1,6 @@
 const path = require('path')
 module.exports = {
-  version: "3.3",
+  version: "3.6",
   title: "browser-use",
   description: "Run AI Agent in your browser. https://github.com/browser-use/web-ui",
   icon: "icon.png",
